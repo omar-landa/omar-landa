@@ -6,6 +6,8 @@ I enjoy both front-end and back-end development.
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-landa)](https://github.com/omar-landa)
+
 
 
 
