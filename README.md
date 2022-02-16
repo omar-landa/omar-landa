@@ -5,7 +5,7 @@ I am self-taught in HTML, CSS, JavaScript, and Java.
 I enjoy both front-end and back-end development.
 
 
-![twittericon](https://twitter.com/omarlandadev)
+
 
 
 
