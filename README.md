@@ -11,7 +11,5 @@ I enjoy both front-end and back-end development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-landa)](https://github.com/omar-landa)
 
-
-<a href=”https://www.linkedin.com/in/jose-landa-537939129/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
-<a href=”https://twitter.com/omarlandadev">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: https://twitter.com/omarlandadev
